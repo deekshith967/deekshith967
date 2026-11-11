@@ -1,150 +1,196 @@
-# Deekshith Nagireddi
+<p align="center">
+  <img src="github-banner.png" width="100%" alt="Deekshith Nagireddi - AI Engineer and Quantum ML Researcher"/>
+</p>
+# Hi, I'm Deekshith Nagireddi
 
 ### AI Engineer | Quantum ML Researcher | Software Developer
 
-[Portfolio](https://portfolio-phi-five-42.vercel.app) · [LinkedIn](https://www.linkedin.com/in/sai-deekshith-kumar-nagireddi-bbab932b1/) · [GitHub](https://github.com/deekshith967) · [LeetCode](https://leetcode.com/u/Deekshith978/)
+<p align="center">
+  <a href="https://portfolio-phi-five-42.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sai-deekshith-kumar-nagireddi-bbab932b1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/deekshith967"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Deekshith978/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
 
 ---
 
 ## About Me
 
-I am an Integrated Dual Degree student in Computer Science and Engineering with an Artificial Intelligence specialization at RGIPT, interested in building intelligent systems and scalable software.
+I'm an Integrated Dual Degree student in Computer Science and Engineering (AI) at **RGIPT**, interested in building intelligent systems, AI applications, and scalable software.
 
-My interests span Agentic AI, Generative AI, Quantum Machine Learning, distributed systems, and backend engineering. I enjoy developing research-oriented prototypes as well as reliable software systems, combining experimentation with practical engineering.
-
-- Research Intern at IIT (BHU), Quantum Computing and Machine Learning Lab
-- Interested in hybrid quantum-classical computing and AI research
-- Exploring LLM-powered applications, RAG, and autonomous agent workflows
-- Interested in distributed systems, backend architecture, and AI security
+- Research experience at **IIT (BHU), Varanasi** in Quantum Computing and Machine Learning.
+- Exploring **Agentic AI, Generative AI, Quantum Machine Learning, and Distributed Systems**.
+- Building full-stack AI applications and backend infrastructure.
+- Interested in research-driven engineering and practical AI systems.
 
 ---
 
-## Technical Skills
+## Tech Stack
 
-**Programming Languages**
+### Languages
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-Python · C++ · C · SQL · TypeScript · JavaScript
+### AI / Machine Learning
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge"/>
+</p>
 
-**Machine Learning & Data Science**
+### Quantum Computing
+<p>
+<img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyQPanda-Quantum-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyVQNet-Quantum_ML-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/QAOA-Optimization-7C3AED?style=for-the-badge"/>
+</p>
 
-Scikit-learn · TensorFlow · XGBoost · NumPy · Pandas · Feature Engineering · Model Evaluation · Time-Series Forecasting
-
-**Generative AI & Agentic Systems**
-
-LangChain · LangGraph · LLMs · Retrieval-Augmented Generation (RAG) · Agentic AI · Tool Calling · Prompt Engineering · Langfuse
-
-**Quantum Computing**
-
-Qiskit · QAOA · PyQPanda · PyVQNet · QTensor · Hybrid Quantum-Classical ML
-
-**Backend & Distributed Systems**
-
-Node.js · NestJS · FastAPI · Django · Django REST Framework · REST APIs · Apache Kafka · Distributed Systems · Concurrent Processing · Event-Driven Architecture
-
-**Databases & Data Modeling**
-
-PostgreSQL · MongoDB · Supabase · Prisma ORM · Relational Database Design · Transaction Management
-
-**Web Development**
-
-React · Next.js · Tailwind CSS · Frontend-Backend Integration
-
-**Tools & Testing**
-
-Git · GitHub · Docker · Linux · Postman · Jest · Automated Testing · Integration Testing · End-to-End Testing · VS Code
+### Backend / Database / Tools
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
 ## Featured Projects
 
-### Quantum-Enhanced Agentic AI for Intelligent Task Planning and Optimization
+### 1. Quantum-Enhanced Agentic AI for Intelligent Task Planning
 
-**Thesis Project | Hybrid Quantum-Classical Optimization**
+**Thesis Research Project**
 
-[Repository](https://github.com/deekshith967/quantum-agentic-scheduler)
+An agentic AI system for intelligent task planning and resource optimization using hybrid quantum-classical optimization.
 
-- Developed an agentic AI prototype for intelligent task planning and resource allocation.
-- Integrated retrieval-augmented generation (RAG), tool orchestration, and ReAct-style reasoning.
-- Formulated scheduling problems using QUBO and Ising representations.
-- Implemented QAOA using Qiskit Aer and compared solutions against OR-Tools CP-SAT.
-- Designed constraint verification, classical fallback, and human-in-the-loop decision approval.
-- Evaluated the system using synthetic benchmarks and automated tests.
+- Agentic AI workflow with RAG and ReAct.
+- QUBO/Ising formulation for optimization.
+- QAOA simulation and classical CP-SAT comparison.
+- Constraint verification, fallback strategies, and human-in-the-loop workflows.
 
-**Technologies:** Python, Qiskit, Qiskit Aer, OR-Tools, FastAPI, Scikit-learn
+`Python` `Qiskit` `QAOA` `OR-Tools` `FastAPI`
 
-### NexusFlow — Distributed Workflow Orchestration Engine
+[View Repository](https://github.com/deekshith967/quantum-agentic-scheduler)
 
-- Engineered a durable DAG-based workflow orchestration engine with versioned publishing and idempotent run creation.
-- Implemented concurrent task processing using PostgreSQL transactions, `FOR UPDATE SKIP LOCKED`, leases, and fencing tokens.
-- Designed a transactional outbox with Kafka-based messaging, retries, crash recovery, and failure policies.
-- Developed a NestJS REST control plane with API-key authentication and tenant isolation.
-- Verified reliability with 161 passing tests across 18 Jest suites.
+---
 
-**Technologies:** TypeScript, Node.js, NestJS, PostgreSQL, Apache Kafka, Jest
+### 2. NexusFlow — Distributed Workflow Orchestration Engine
 
-### AI Financial Research Copilot
+A distributed workflow engine designed for reliable execution of dependency-driven tasks.
 
-- Architected an agentic financial research assistant using LangChain and LangGraph.
-- Integrated 15+ financial tools for market data, financial statements, ratios, dividends, and analyst information.
-- Developed a local RAG pipeline and FastAPI backend with streaming responses.
-- Implemented agent evaluation workflows and Langfuse tracing for observability.
-- Achieved 138 passing tests.
+- DAG-based workflow orchestration.
+- Concurrent workers and PostgreSQL-based task coordination.
+- Kafka transactional outbox and event-driven processing.
+- Idempotency, retries, crash recovery, and tenant isolation.
+- 161 passing tests across 18 Jest suites.
 
-**Technologies:** LangChain, LangGraph, FastAPI, React, RAG, Langfuse
+`TypeScript` `NestJS` `PostgreSQL` `Kafka` `Jest`
 
-### FinVision AI — Full-Stack AI Finance Platform
+---
 
-- Developed a full-stack finance platform with authentication, role-based access control, and REST APIs.
-- Designed relational data models using PostgreSQL, Prisma ORM, and Supabase.
-- Built an interactive transaction dashboard.
-- Integrated Gemini AI for receipt scanning, automated transaction categorization, and AI-generated financial insights.
+### 3. AI Financial Research Copilot
 
-**Technologies:** Next.js, Supabase, Prisma, PostgreSQL, Gemini AI API
+An AI-powered financial research assistant integrating agentic workflows and retrieval-augmented generation.
+
+- 15+ financial research tools.
+- LangChain and LangGraph agent workflows.
+- Local RAG pipeline and streaming responses.
+- Evaluation and observability with Langfuse.
+- 138 tests.
+
+`Python` `LangChain` `LangGraph` `FastAPI` `React` `Langfuse`
+
+---
+
+### 4. FinVision AI — Full-Stack Finance Platform
+
+An AI-powered finance application for transaction tracking and intelligent financial insights.
+
+- Authentication and role-based access control.
+- Transaction dashboards and receipt scanning.
+- AI-powered transaction categorization and insights.
+- Full-stack application with database integration.
+
+`Next.js` `Supabase` `Prisma` `PostgreSQL` `Gemini API`
 
 ---
 
 ## Research Experience
 
 ### Research Intern — IIT (BHU), Varanasi
+**Quantum Computing and Machine Learning Lab | May – August 2025**
 
-**Quantum Computing and Machine Learning Lab | May 2025 – August 2025**
-
-- Built an end-to-end data and machine learning pipeline for S&P 500 time-series forecasting.
-- Benchmarked LSTM, GRU, and Linear Regression models using MSE, MAE, and R².
-- Prototyped hybrid quantum-classical ML models using PyQPanda, PyVQNet, and QTensor.
-- Conducted experiments reporting R² of 0.96 and a 20% reduction in forecasting error.
-- Applied quantum autoencoders for feature compression and improved experimental reproducibility.
+- Developed machine learning pipelines for S&P 500 time-series forecasting.
+- Benchmarked LSTM, GRU, and Linear Regression models.
+- Explored hybrid quantum-classical machine learning using PyQPanda, PyVQNet, and QTensor.
+- Worked on quantum autoencoders for feature compression and reproducibility.
 
 ---
 
-## Achievements & Certifications
+## Achievements
 
-- Finalist — Binary Clash 360 Hackathon, IIT Madras (2024)
-- Solved 150+ LeetCode problems in Data Structures and Algorithms
-- Certified Cyber Warrior — HackingFlix Academy
+<p>
+<img src="https://img.shields.io/badge/Hackathon-Finalist-FFD700?style=flat-square"/>
+<img src="https://img.shields.io/badge/LeetCode-150%2B_Problems-FFA116?style=flat-square"/>
+<img src="https://img.shields.io/badge/Certification-Certified_Cyber_Warrior-2563EB?style=flat-square"/>
+</p>
+
+- Finalist — Binary Clash 360 Hackathon, IIT Madras (2024).
+- Solved 150+ problems on LeetCode.
+- Certified Cyber Warrior — HackingFlix Academy.
 
 ---
+
 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deekshith967&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshith967&layout=compact&hide_border=true&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deekshith967&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshith967&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=deekshith967&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=deekshith967&theme=tokyonight&hide_border=true"/>
+</p>
+
+
+---
+
+
+## Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deekshith967/deekshith967/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deekshith967/deekshith967/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/deekshith967/deekshith967/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
 
-## Connect
 
-- **LinkedIn:** [Sai Deekshith Nagireddi](https://www.linkedin.com/in/sai-deekshith-kumar-nagireddi-bbab932b1/)
-- **GitHub:** [deekshith967](https://github.com/deekshith967)
-- **Portfolio:** [portfolio-phi-five-42.vercel.app](https://portfolio-phi-five-42.vercel.app)
-- **LeetCode:** [Deekshith978](https://leetcode.com/u/Deekshith978/)
+## Connect With Me
 
----
+<p align="center">
+  <a href="https://portfolio-phi-five-42.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sai-deekshith-kumar-nagireddi-bbab932b1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-*Building intelligent systems through research, experimentation, and software engineering.*
+<p align="center">
+  <i>Building intelligent systems at the intersection of AI, quantum computing, and software engineering.</i>
+</p>
